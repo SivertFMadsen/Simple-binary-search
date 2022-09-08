@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define SIZE 10000000
+#define SIZE 100000000
 
 int binaersoek(int* set, int len, int element) {
     int low = 0;
